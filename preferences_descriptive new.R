@@ -1,7 +1,4 @@
 #Descriptive stats for Parent Preferences
-#Code by: Tushar Kundu
-#Updated on 06/10/23
-
 
 #&&&&&&&&&&&&&&&&&&
 #SETUP ----
